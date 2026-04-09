@@ -1,0 +1,15 @@
+{
+  "name": "gipersila-bot",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token",
+      "value": "8571836508:AAHtkblRtS4eiBzQwvY6R4QYFukYRScuTsM"
+    }
+  },
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "S"
+    }
+  }
+}
